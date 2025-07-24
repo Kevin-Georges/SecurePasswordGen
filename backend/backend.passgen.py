@@ -23,7 +23,7 @@ def randomSpecChar(x):
     return alphP[z]
 
 #creating variables/arrays and taking inputs
-char=int(input("how many characters are required?"))
+char=int(input("how many letters are required?"))
 num=int(input("how many numbers are required?"))
 specChar=int(input("how many special characters are required?"))
 unusableChar=input("is there any unusable special characters?")
